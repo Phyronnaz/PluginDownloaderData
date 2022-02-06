@@ -1,9 +1,13 @@
 [
     {
-        "Name": "Voxel Plugin 2 Beta",
+        "Name": "Voxel Plugin Pro",
         "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/Voxel.png",
         "User": "VoxelPlugin",
         "Repo": "VoxelPro",
-        "Branch": "master"
+        "Branches": {
+            "master": "2.0 beta",
+            "ProBetaLTS": "1.2 beta",
+            "Marketplace": "1.2 marketplace"
+        }
     }
 ]
