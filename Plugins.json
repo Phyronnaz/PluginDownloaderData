@@ -1,7 +1,7 @@
 [
     {
-        "Id": "Voxel",
         "Name": "Voxel Plugin 2 Beta",
+        "IconName": "Voxel",
         "User": "VoxelPlugin",
         "Repo": "VoxelPro",
         "Branch": "master"
