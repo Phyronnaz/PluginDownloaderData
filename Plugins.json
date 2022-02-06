@@ -9,5 +9,15 @@
             "ProBetaLTS": "1.2 beta",
             "Marketplace": "1.2 marketplace"
         }
+    },
+    {
+        "Name": "Flow Graph",
+        "Icon": "https://raw.githubusercontent.com/MothCocoon/FlowGraph/main/Resources/Icon128.png",
+        "User": "MothCocoon",
+        "Repo": "FlowGraph",
+        "Branches": {
+            "v1.1-4.27": "1.1 for 4.27",
+            "4.27": "latest for 4.27"
+        }
     }
 ]
