@@ -1,0 +1,9 @@
+[
+    {
+        "Id": "Voxel",
+        "Name": "Voxel Plugin 2 Beta",
+        "User": "VoxelPlugin",
+        "Repo": "VoxelPro",
+        "Branch": "master"
+    }
+]
