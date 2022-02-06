@@ -19,5 +19,15 @@
             "v1.1-4.27": "1.1 for 4.27",
             "4.27": "latest for 4.27"
         }
+    },
+    {
+        "Name": "Logic Driver",
+        "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/LogicDriver.png",
+        "User": "Recursoft",
+        "Repo": "LogicDriver",
+        "Branches": {
+            "{ENGINE_VERSION}": "stable",
+            "dev-{ENGINE_VERSION}": "dev"
+        }
     }
 ]
