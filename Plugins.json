@@ -1,7 +1,7 @@
 [
     {
         "Name": "Voxel Plugin 2 Beta",
-        "IconName": "Voxel",
+        "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/Voxel.png",
         "User": "VoxelPlugin",
         "Repo": "VoxelPro",
         "Branch": "master"
