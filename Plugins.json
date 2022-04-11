@@ -4,6 +4,7 @@
         "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/Voxel.png",
         "User": "VoxelPlugin",
         "Repo": "VoxelPro",
+        "Descriptor": "Voxel.uplugin",
         "Branches": {
             "master": "2.0 beta",
             "ProBetaLTS": "1.2 beta",
@@ -15,6 +16,7 @@
         "Icon": "https://raw.githubusercontent.com/MothCocoon/FlowGraph/main/Resources/Icon128.png",
         "User": "MothCocoon",
         "Repo": "FlowGraph",
+        "Descriptor": "Flow.uplugin",
         "Branches": {
             "v1.1-4.27": "1.1 for 4.27",
             "4.27": "latest for 4.27"
@@ -25,6 +27,7 @@
         "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/LogicDriver.png",
         "User": "Recursoft",
         "Repo": "LogicDriver",
+        "Descriptor": "SMSystem.uplugin",
         "Branches": {
             "{ENGINE_VERSION}": "stable",
             "dev-{ENGINE_VERSION}": "dev"
@@ -35,5 +38,6 @@
         "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloader/master/Resources/Icon128.png",
         "User": "Phyronnaz",
         "Repo": "PluginDownloader"
+        "Descriptor": "PluginDownloader.uplugin"
     }
 ]
