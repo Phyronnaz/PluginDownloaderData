@@ -37,7 +37,7 @@
         "Name": "Plugin Downloader",
         "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloader/master/Resources/Icon128.png",
         "User": "Phyronnaz",
-        "Repo": "PluginDownloader"
+        "Repo": "PluginDownloader",
         "Descriptor": "PluginDownloader.uplugin"
     }
 ]
