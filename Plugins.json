@@ -32,7 +32,7 @@
         "User": "Recursoft",
         "Repo": "LogicDriver",
         "Descriptor": "SMSystem.uplugin",
-        "StableBranch": "stable",
+        "StableBranch": "{ENGINE_VERSION}",
         "ReleaseNotesURL": "",
         "Branches": {
             "{ENGINE_VERSION}": "stable",
