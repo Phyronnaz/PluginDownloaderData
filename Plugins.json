@@ -1,19 +1,5 @@
 [
     {
-        "Name": "Voxel Plugin Pro",
-        "Icon": "https://raw.githubusercontent.com/Phyronnaz/PluginDownloaderData/master/Icons/Voxel.png",
-        "User": "VoxelPlugin",
-        "Repo": "VoxelPro",
-        "Descriptor": "Voxel.uplugin",
-        "StableBranch": "Marketplace",
-        "ReleaseNotesURL": "",
-        "Branches": {
-            "master": "2.0 beta",
-            "ProBetaLTS": "1.2 beta",
-            "Marketplace": "1.2 marketplace"
-        }
-    },
-    {
         "Name": "Flow Graph",
         "Icon": "https://raw.githubusercontent.com/MothCocoon/FlowGraph/main/Resources/Icon128.png",
         "User": "MothCocoon",
