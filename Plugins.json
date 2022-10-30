@@ -5,11 +5,11 @@
         "User": "MothCocoon",
         "Repo": "FlowGraph",
         "Descriptor": "Flow.uplugin",
-        "StableBranch": "4.27",
+        "StableBranch": "{ENGINE_VERSION}",
         "ReleaseNotesURL": "",
         "Branches": {
-            "v1.1-4.27": "1.1 for 4.27",
-            "4.27": "latest for 4.27"
+            "v1.2-{ENGINE_VERSION}": "1.2 for {ENGINE_VERSION}",
+            "{ENGINE_VERSION}": "latest for {ENGINE_VERSION}"
         }
     },
     {
