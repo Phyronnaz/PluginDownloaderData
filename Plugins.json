@@ -8,8 +8,8 @@
         "StableBranch": "{ENGINE_VERSION}",
         "ReleaseNotesURL": "",
         "Branches": {
-            "v1.2-{ENGINE_VERSION}": "1.2 for {ENGINE_VERSION}",
-            "{ENGINE_VERSION}": "latest for {ENGINE_VERSION}"
+            "v1.2-{ENGINE_VERSION}": "1.2",
+            "{ENGINE_VERSION}": "latest"
         }
     },
     {
