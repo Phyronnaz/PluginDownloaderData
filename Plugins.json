@@ -33,5 +33,14 @@
         "Descriptor": "PluginDownloader.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": "https://github.com/Phyronnaz/PluginDownloader/wiki/Release-Notes"
+    },
+    {
+        "Name": "HLSL Material",
+        "Icon": "https://raw.githubusercontent.com/Phyronnaz/HLSLMaterial/master/Resources/Icon128.png",
+        "User": "Phyronnaz",
+        "Repo": "HLSLMaterial",
+        "Descriptor": "HLSLMaterial.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": ""
     }
 ]
