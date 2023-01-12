@@ -42,5 +42,14 @@
         "Descriptor": "HLSLMaterial.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "Crisp Subtitle Framework",
+        "Icon": "https://raw.githubusercontent.com/CrispClover/SubtitleFramework/main/Resources/Icon128.png",
+        "User": "CrispClover",
+        "Repo": "SubtitleFramework",
+        "Descriptor": "CrispSubtitleFramework.uplugin",
+        "StableBranch": "main",
+        "ReleaseNotesURL": ""
     }
 ]
