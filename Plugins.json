@@ -51,5 +51,14 @@
         "Descriptor": "CrispSubtitleFramework.uplugin",
         "StableBranch": "main",
         "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "Realtime Mesh Component",
+        "Icon": "https://github.com/TriAxis-Games/RealtimeMeshComponent/raw/master/Resources/Icon128.png",
+        "User": "TriAxis-Games",
+        "Repo": "RealtimeMeshComponent",
+        "Descriptor": "RealtimeMeshComponent.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": "https://github.com/TriAxis-Games/RealtimeMeshComponent/releases"
     }
 ]
