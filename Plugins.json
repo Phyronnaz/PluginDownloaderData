@@ -54,7 +54,7 @@
     },
     {
         "Name": "Locomotion",
-        "Icon": "",
+        "Icon": "https://github.com/Ebrahim-Mottaghi-Rezaei/Locomotion/blob/master/Resources/Icon128.png",
         "User": "ebrahim-mottaghi-rezaei",
         "Repo": "Locomotion",
         "Descriptor": "Locomotion.uplugin",
