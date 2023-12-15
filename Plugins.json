@@ -51,5 +51,14 @@
         "Descriptor": "CrispSubtitleFramework.uplugin",
         "StableBranch": "main",
         "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "Locomotion",
+        "Icon": "",
+        "User": "ebrahim-mottaghi-rezaei",
+        "Repo": "Locomotion",
+        "Descriptor": "Locomotion.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": ""
     }
 ]
