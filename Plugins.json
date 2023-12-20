@@ -69,5 +69,14 @@
         "Descriptor": "Locomotion.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "Easy Logger",
+        "Icon": "https://raw.githubusercontent.com/Ebrahim-Mottaghi-Rezaei/EasyLogger/master/Resources/Icon128.png",
+        "User": "ebrahim-mottaghi-rezaei",
+        "Repo": "EasyLogger",
+        "Descriptor": "EasyLogger.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": ""
     }
 ]
