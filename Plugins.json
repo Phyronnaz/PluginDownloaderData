@@ -60,5 +60,14 @@
         "Descriptor": "RealtimeMeshComponent.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": "https://github.com/TriAxis-Games/RealtimeMeshComponent/releases"
+    },
+    {
+        "Name": "Locomotion",
+        "Icon": "https://raw.githubusercontent.com/Ebrahim-Mottaghi-Rezaei/Locomotion/master/Resources/Icon128.png",
+        "User": "ebrahim-mottaghi-rezaei",
+        "Repo": "Locomotion",
+        "Descriptor": "Locomotion.uplugin",
+        "StableBranch": "master",
+        "ReleaseNotesURL": ""
     }
 ]
