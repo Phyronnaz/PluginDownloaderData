@@ -54,7 +54,7 @@
     },
     {
         "Name": "Realtime Mesh Component",
-        "Icon": "https://github.com/TriAxis-Games/RealtimeMeshComponent/raw/master/Resources/Icon128.png",
+        "Icon": "https://raw.githubusercontent.com/TriAxis-Games/RealtimeMeshComponent/master/Resources/Icon128.png",
         "User": "TriAxis-Games",
         "Repo": "RealtimeMeshComponent",
         "Descriptor": "RealtimeMeshComponent.uplugin",
