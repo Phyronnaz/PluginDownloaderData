@@ -78,5 +78,14 @@
         "Descriptor": "EasyLogger.uplugin",
         "StableBranch": "master",
         "ReleaseNotesURL": ""
+    },
+    {
+        "Name": "UDCore",
+        "Icon": "https://raw.githubusercontent.com/UnrealDirective/UDCore/main/Resources/Icon128.png",
+        "User": "UnrealDirective",
+        "Repo": "UDCore",
+        "Descriptor": "UDCore.uplugin",
+        "StableBranch": "main",
+        "ReleaseNotesURL": "https://udcore.unrealdirective.com/docs/changelog"
     }
 ]
